@@ -22,3 +22,7 @@
 [submodule "projects/1000GenomesProject"]
 	path = projects/1000GenomesProject
 	url = https://github.com/conpdatasets/1000GenomesProject.git
+[submodule "projects/microglia"]
+	path = projects/microglia
+	url = ./projects/microglia
+	datalad-id = 7871cb24-1def-11ea-a2df-48a4726a01a8
